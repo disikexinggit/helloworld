@@ -1,1 +1,3 @@
-sql page
+#sql page
+
+print('hello sql')
